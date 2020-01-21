@@ -1,0 +1,17 @@
+
+/* Criacao da classe center com a instrucao de alinhamento no centro */
+.center {
+    text-align: center;
+  }
+  /* Criacao da classe size-img para o tamanho da imagem */
+  .size-img{
+    width: 20%;
+  }
+  /* Classe bg para cor de fundo do site */
+  .bg{
+    background-color: #F8BFC8;
+  }
+  /* Classe txt-color para mudar cor do texto */
+  .txt-color{
+    color: black;
+  }
